@@ -1,0 +1,58 @@
+#result{
+  display: none;
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#shareResult{
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.resultname{
+  font-size: 28px;
+}
+
+.result1{
+  font-size: 24px;
+  vertical-align: bottom;
+  text-align: left;
+
+}
+
+.result2{
+  font-size: 20px;
+  vertical-align: top;
+  text-align: left;
+}
+
+
+.kakao{
+  color: white;
+  background-color: #FEE500;
+  font-size: 20px;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.kakao:hover, .kakao:focus {
+  background-color: white;
+  color: #FEE500;
+}
+
+.gohome{
+  color: white;
+  background-color: rgb(221, 221, 221);
+  font-size: 20px;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.gohome:hover, .gohome:focus {
+  background-color: white;
+  color: rgb(221, 221, 221);
+}
